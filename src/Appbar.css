@@ -1,0 +1,14 @@
+.list {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.hd1,
+.hd2,
+.hd3,
+.hd4,
+.hd5 {
+  margin: 30px;
+  color: white;
+  /* margin-right: 100px; */
+}

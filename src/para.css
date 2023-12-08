@@ -1,0 +1,9 @@
+.para {
+  color: white;
+  border-left: 1px solid grey;
+}
+
+.p,
+h4 {
+  margin-left: 50px;
+}

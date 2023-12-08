@@ -1,0 +1,14 @@
+.cnt {
+  color: white;
+  display: block;
+  width: 500px;
+  height: 500px;
+  margin-left: 190px;
+  margin-top: 50px;
+  text-align: start;
+  box-sizing: border-box;
+}
+
+.txt {
+  word-spacing: 5px;
+}

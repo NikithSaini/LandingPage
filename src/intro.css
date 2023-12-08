@@ -1,0 +1,9 @@
+.heading {
+  color: white;
+  text-align: left;
+  margin-right: 60px;
+}
+
+h2::after {
+  content: "\00a0";
+}
